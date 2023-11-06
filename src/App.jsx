@@ -1,8 +1,14 @@
  
+import Chai from "./chai"
 function App() {
   return (
-    <h1> chai aor react with vite | Manish</h1>
+    <>
+     <Chai />
+     <h1>chai aor react</h1>
+    </>
+    
   )
+ 
 }
 
 export default App
